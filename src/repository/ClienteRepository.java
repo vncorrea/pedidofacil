@@ -9,7 +9,7 @@ public class ClienteRepository {
     private long nextId = 1;
 
     public ClienteRepository() {
-        // Cria um cliente padrão para testes
+
         Cliente exemplo = new Cliente(nextId, "Cliente Exemplo");
         mapaClientes.put(nextId, exemplo);
         nextId++;
