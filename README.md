@@ -1,9 +1,9 @@
 # PedidoFácil
 
 ## Alunos
-**Arthur Riquieri Campos - 838656**
-**Fernando Yudi Yaginuma - 837755**
-**Igor Bianchini Ulian - 837782**
+**Arthur Riquieri Campos - 838656**<br>
+**Fernando Yudi Yaginuma - 837755**<br>
+**Igor Bianchini Ulian - 837782**<br>
 **Vinícius Corrêa Goulart Silva - 838641**
 
 ## 1. Tema Escolhido
