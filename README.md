@@ -1,5 +1,11 @@
 # PedidoFácil
 
+## Alunos
+**Arthur Riquieri Campos - 838656**
+**Fernando Yudi Yaginuma - 837755**
+**Igor Bianchini Ulian - 837782**
+**Vinícius Corrêa Goulart Silva - 838641**
+
 ## 1. Tema Escolhido
 **Sistema de Pedidos Online**
 
@@ -105,3 +111,5 @@
 --- 
 
 ## 7. Diagrama de Classes (UML Simplificado)
+![Diagrama de classes](https://github.com/user-attachments/assets/3f79b5fb-5e59-4c09-9365-d6ed8d161041)
+
