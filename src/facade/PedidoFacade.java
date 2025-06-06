@@ -13,9 +13,6 @@ public class PedidoFacade {
     private PedidoService pedidoService = new PedidoService();
     private PagamentoService pagamentoService = new PagamentoService();
 
-    /**
-     * Cria um pedido novo para um cliente já existente (id = 1 criado no repositório).
-     */
     public Pedido criarPedidoParaCliente(long clienteId) {
         Cliente cliente = clienteService.buscarPorId(clienteId);
         Pedido pedido = new Pedido(cliente);
